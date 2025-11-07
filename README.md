@@ -5,10 +5,12 @@ El **Catálogo de Películas y Series** es una aplicación desarrollada en **Jav
 El programa ofrece funciones para **agregar, buscar, eliminar y listar** títulos, almacenando los datos en un archivo binario para mantener la información entre sesiones.
 
 ## 👥 Participantes
-Pau Silvestre
-Marc Font
-Daniel Juarez
-Iker Figás
+| Nombre | Apellido | Funcion |
+|:-------------|:---------------:|-------------:|
+| Pau | Silvestre Arnandis |  |
+| Marc | Font Broch |  |
+| Daniel | Juarez Montilla |  |
+| Iker | Figás Izquierdo |  |
 
 ## 📖 Descripción del Proyecto
 El **Catálogo de Películas y Series** es una aplicación desarrollada en **Java** que permite gestionar una colección de películas y series de forma sencilla e intuitiva.  

@@ -72,14 +72,10 @@ Al darle al 5 tendremos que poner el director de la pelicula/serie que queremos 
 Al darle al 6 tendremos que poner la id de la pelicula que queremos borrar y para prevenir errores hemos puesto que al darle a -1 se cancela.
 
 <img width="351" height="89" alt="image" src="https://github.com/user-attachments/assets/ba3ec9ae-b9b6-40ae-b4a4-833466b625ff" />
-
-
+<br>
 
 <img width="428" height="496" alt="image" src="https://github.com/user-attachments/assets/06d23f9a-867a-4b64-886c-17046bf61435" />
-
-
-
-
+<br>
 <img width="294" height="68" alt="image" src="https://github.com/user-attachments/assets/63ff3405-1d26-4957-9d27-789ae1499e78" />
 
 

@@ -18,7 +18,7 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
 
 2.Lo ponemos en una carpeta lo descomprimimos y con nuestro programa de codigo elegimos la carpeta.
 
-3.Y una vez ahi le damos a la flecha de run y se empezara a ejecutar.
+3.Y una vez ahí iremos a la carpeta src, le daremos a Main, le damos a la flecha de run y se empezara a ejecutar.
 
 ## ✅ Funcionalidades implementadas
  - [x] 1. Añadir película/serie al catálogo
@@ -33,5 +33,7 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
  - [x] 10. Cargar automáticamente los datos al iniciar el programa
 
 ## ⚙️ Ejemplo de uso
+1.Añadir
+<img width="628" height="640" alt="image" src="https://github.com/user-attachments/assets/ec6c7071-6d73-4b32-b21f-532c28c1a772" />
 
 

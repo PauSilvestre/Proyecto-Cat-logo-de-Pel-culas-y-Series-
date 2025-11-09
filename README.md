@@ -85,9 +85,18 @@ Al darle al 7 nos saldra un mensaje para poner al id de la pelicula/serie que qu
 <br>
 <img width="398" height="222" alt="image" src="https://github.com/user-attachments/assets/c57610f2-f01f-4dd4-84f2-0048692a2f6a" />
 
-
 8.Ver mejor valoradas:
 
+Al darle al 8 podremos ver las peliculas/series con mejor valoracion.
+
+<img width="491" height="529" alt="image" src="https://github.com/user-attachments/assets/5e873751-695f-486f-a9f9-86b48e9e51d7" />
+
 9.Guardar automáticamente todos los datos al salir del programa:
+
+Le damos al 0, se saldra el programa y los datos los guardara automaticamente en **datos/peliculas.bin**.
+
+<img width="625" height="187" alt="image" src="https://github.com/user-attachments/assets/f171a77c-39e1-4325-88d1-77620ff743d9" />
+<br>
+<img width="625" height="474" alt="image" src="https://github.com/user-attachments/assets/388c2ab5-2434-4e01-80b1-06435e23edd0" />
 
 10.Cargar automáticamente los datos al iniciar el programa:

@@ -7,7 +7,7 @@ El programa ofrece funciones para **agregar, buscar, eliminar y listar** título
 ## 👥 Participantes
 | Nombre | Apellido | Funcion |
 |:-------------|:---------------:|-------------:|
-| Pau | Silvestre Arnandis |  |
+| Pau | Silvestre Arnandis | Crear el proyecto y el Main, Añadir Pelicula/Serie, Ver catàlogo completo |
 | Marc | Font Broch |  |
 | Daniel | Juarez Montilla |  |
 | Iker | Figás Izquierdo |  |

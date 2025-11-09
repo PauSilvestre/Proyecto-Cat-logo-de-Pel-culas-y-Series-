@@ -33,7 +33,9 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
  - [x] 10. Cargar automáticamente los datos al iniciar el programa
 
 ## ⚙️ Ejemplo de uso
-1.Añadir
+1.Añadir película/serie:
+Escribimos el numero 1 y nos saldra para rellenar datos.
+
 <img width="628" height="640" alt="image" src="https://github.com/user-attachments/assets/ec6c7071-6d73-4b32-b21f-532c28c1a772" />
 
 

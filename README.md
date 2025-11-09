@@ -100,3 +100,8 @@ Le damos al 0, se saldra el programa y los datos los guardara automaticamente en
 <img width="625" height="474" alt="image" src="https://github.com/user-attachments/assets/388c2ab5-2434-4e01-80b1-06435e23edd0" />
 
 10.Cargar automáticamente los datos al iniciar el programa:
+
+Si ya hemos usado el programa alguna vez y hemos puesto datos al volver a ejecutarlo tendra los datos guardados.
+
+<img width="529" height="567" alt="image" src="https://github.com/user-attachments/assets/b7a88eca-e9a3-45ba-a68d-5a4350bd5780" />
+

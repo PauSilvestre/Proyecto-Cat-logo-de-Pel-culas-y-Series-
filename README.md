@@ -15,7 +15,9 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
 
 ## ⚙️ Instrucciones para ejecutar
 1.Desde **Github** vamos a **Code**, le daremos al boton verde de <>Code y Download ZIP.
+
 2.Lo ponemos en una carpeta lo descomprimimos y con nuestro programa de codigo elegimos la carpeta.
+
 3.Y una vez ahi le damos a la flecha de run y se empezara a ejecutar.
 
 ## ✅ Funcionalidades implementadas

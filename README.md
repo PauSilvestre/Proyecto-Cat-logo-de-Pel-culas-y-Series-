@@ -14,6 +14,7 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
 | Iker | Figás Izquierdo | Buscar por título, Filtrar por género, Hacer el ReadMe |
 
 ## ⚙️ Instrucciones para ejecutar
+Desde <u>Github<u> vamos a ## Code
 
 ## ✅ Funcionalidades implementadas
  - [x] 1. Añadir película/serie al catálogo

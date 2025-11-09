@@ -7,12 +7,10 @@ El programa ofrece funciones para **agregar, buscar, eliminar y listar** título
 ## 👥 Participantes
 | Nombre | Apellido | Funcion |
 |:-------------|:---------------:|-------------:|
-| Pau | Silvestre Arnandis |Crear el proyecto y el Main, 
-Añadir Pelicula/Serie, 
-Ver catàlogo completo|
-| Marc | Font Broch |  |
-| Daniel | Juarez Montilla |  |
-| Iker | Figás Izquierdo |  |
+| Pau | Silvestre Arnandis |Crear el proyecto y el Main, Añadir Pelicula/Serie, Ver catàlogo completo|
+| Marc | Font Broch |Cargar automaticamente, Guardar automaticamente, Ver mejor valoradas  |
+| Daniel | Juarez Montilla | Filtrar por director/creador, Modificar datos, Eliminar Pelicula |
+| Iker | Figás Izquierdo | Buscar por título, Filtrar por género, Hacer el ReadMe |
 
 ## 📖 Descripción del Proyecto
 El **Catálogo de Películas y Series** es una aplicación desarrollada en **Java** que permite gestionar una colección de películas y series de forma sencilla e intuitiva.  

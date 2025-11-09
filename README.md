@@ -77,6 +77,9 @@ Al darle al 6 tendremos que poner la id de la pelicula que queremos borrar y par
 
 <img width="428" height="496" alt="image" src="https://github.com/user-attachments/assets/06d23f9a-867a-4b64-886c-17046bf61435" />
 
+
+
+
 <img width="294" height="68" alt="image" src="https://github.com/user-attachments/assets/63ff3405-1d26-4957-9d27-789ae1499e78" />
 
 

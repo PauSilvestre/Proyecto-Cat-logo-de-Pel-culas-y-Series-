@@ -34,8 +34,14 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
 
 ## ⚙️ Ejemplo de uso
 1.Añadir película/serie:
+
 Escribimos el numero 1 y nos saldra para rellenar datos.
 
 <img width="628" height="640" alt="image" src="https://github.com/user-attachments/assets/ec6c7071-6d73-4b32-b21f-532c28c1a772" />
+
+Tambien hemos echo los errores por si la gente se equivoca.
+
+<img width="373" height="395" alt="image" src="https://github.com/user-attachments/assets/99fe6337-9e96-4aae-9ae9-1c3e9195dc3a" />
+
 
 

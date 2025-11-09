@@ -16,16 +16,16 @@ Además, el proyecto lo haremos en equipo y para que nos resulte mas comodo util
 ## ⚙️ Instrucciones para ejecutar
 
 ## ✅ Funcionalidades implementadas
-  [x]1. Añadir película/serie al catálogo
-  [x]2. Ver catálogo completo con todas las películas/series
-  [x]3. Buscar por título
-  [x]4. Filtrar por género (Acción, Comedia, Drama, Terror, Ciencia Ficción, etc.)
-  [x]5. Filtrar por director/creador
-  [x]6. Eliminar película/serie del catálogo
-  [x]7. Modificar datos de una película/serie existente
-  [x]8. Ver mejor valoradas (ordenadas por valoración)
-  [x]9. Guardar automáticamente todos los datos al salir del programa
-  [x]10. Cargar automáticamente los datos al iniciar el programa
+ - [x]1. Añadir película/serie al catálogo
+ - [x]2. Ver catálogo completo con todas las películas/series
+ - [x]3. Buscar por título
+ - [x]4. Filtrar por género (Acción, Comedia, Drama, Terror, Ciencia Ficción, etc.)
+ - [x]5. Filtrar por director/creador
+ - [x]6. Eliminar película/serie del catálogo
+ - [x]7. Modificar datos de una película/serie existente
+ - [x]8. Ver mejor valoradas (ordenadas por valoración)
+ - [x]9. Guardar automáticamente todos los datos al salir del programa
+ - [x]10. Cargar automáticamente los datos al iniciar el programa
 
 ## ⚙️ Ejemplo de uso
 
